@@ -5,7 +5,6 @@
 	<TITLE>Página web</TITLE>
  </HEAD>
 
-	<BODY>
 	<p class="title">AL-ANDA TECNOLOGÍAS SL</p>
 	<table>
 		<tr>
@@ -30,5 +29,4 @@
 			</td>
 		</tr>
 	</table>
-	</BODY>
 </HTML>
